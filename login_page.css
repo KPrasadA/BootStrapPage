@@ -1,0 +1,8 @@
+.container-fluid{
+    position: relative;
+   top: 5vh;
+   background-color: #fff;
+   padding: 30px;
+   border-radius: 100;
+   box-shadow: 0px 0px 3px 0px #000;
+ }
